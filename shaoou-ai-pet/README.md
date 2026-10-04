@@ -64,5 +64,3 @@ qa/           不含个人信息的发布检查报告
 manifest.json 状态与图集映射
 checksums.json 发布文件 SHA-256 清单
 ```
-
-[更新记录](CHANGELOG.md) · [GitHub 发布步骤和文案](docs/PUBLISH.md)
