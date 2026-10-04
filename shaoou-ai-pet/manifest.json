@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "releaseVersion": "1.0.0",
+  "name": "少偶·膝上贴贴",
+  "aiGenerated": true,
+  "unofficialFanWork": true,
+  "description": "AI 生成的桑多涅与哥伦比娅双人陪伴动画；非米哈游/HoYoverse官方作品，无合作、隶属或背书关系。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "assets/spritesheet-extended.png",
+  "spritesheetWebpPath": "assets/spritesheet-extended.webp",
+  "spritesheetLayout": {
+    "columns": 8,
+    "rows": 11,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "lookDirectionCount": 16,
+    "neutralLookFrame": {
+      "rowIndex": 0,
+      "columnIndex": 0
+    }
+  },
+  "states": [
+    {
+      "name": "idle",
+      "rowIndex": 0,
+      "frameCount": 6,
+      "previewPath": "previews/idle.gif",
+      "previewDurationsMs": [
+        280,
+        110,
+        110,
+        140,
+        140,
+        320
+      ]
+    },
+    {
+      "name": "running-right",
+      "rowIndex": 1,
+      "frameCount": 8,
+      "previewPath": "previews/running-right.gif",
+      "previewDurationsMs": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ]
+    },
+    {
+      "name": "running-left",
+      "rowIndex": 2,
+      "frameCount": 8,
+      "previewPath": "previews/running-left.gif",
+      "previewDurationsMs": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ]
+    },
+    {
+      "name": "waving",
+      "rowIndex": 3,
+      "frameCount": 4,
+      "previewPath": "previews/waving.gif",
+      "previewDurationsMs": [
+        140,
+        140,
+        140,
+        280
+      ]
+    },
+    {
+      "name": "jumping",
+      "rowIndex": 4,
+      "frameCount": 5,
+      "previewPath": "previews/jumping.gif",
+      "previewDurationsMs": [
+        140,
+        140,
+        140,
+        140,
+        280
+      ]
+    },
+    {
+      "name": "failed",
+      "rowIndex": 5,
+      "frameCount": 8,
+      "previewPath": "previews/failed.gif",
+      "previewDurationsMs": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        240
+      ]
+    },
+    {
+      "name": "waiting",
+      "rowIndex": 6,
+      "frameCount": 6,
+      "previewPath": "previews/waiting.gif",
+      "previewDurationsMs": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        260
+      ]
+    },
+    {
+      "name": "running",
+      "rowIndex": 7,
+      "frameCount": 6,
+      "previewPath": "previews/running.gif",
+      "previewDurationsMs": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ]
+    },
+    {
+      "name": "review",
+      "rowIndex": 8,
+      "frameCount": 6,
+      "previewPath": "previews/review.gif",
+      "previewDurationsMs": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        280
+      ]
+    }
+  ],
+  "lookAngleConvention": "0=up, 90=right, 180=down, 270=left; clockwise screen directions",
+  "lookDirections": [
+    {
+      "degrees": 0,
+      "rowIndex": 9,
+      "columnIndex": 0
+    },
+    {
+      "degrees": 22.5,
+      "rowIndex": 9,
+      "columnIndex": 1
+    },
+    {
+      "degrees": 45,
+      "rowIndex": 9,
+      "columnIndex": 2
+    },
+    {
+      "degrees": 67.5,
+      "rowIndex": 9,
+      "columnIndex": 3
+    },
+    {
+      "degrees": 90,
+      "rowIndex": 9,
+      "columnIndex": 4
+    },
+    {
+      "degrees": 112.5,
+      "rowIndex": 9,
+      "columnIndex": 5
+    },
+    {
+      "degrees": 135,
+      "rowIndex": 9,
+      "columnIndex": 6
+    },
+    {
+      "degrees": 157.5,
+      "rowIndex": 9,
+      "columnIndex": 7
+    },
+    {
+      "degrees": 180,
+      "rowIndex": 10,
+      "columnIndex": 0
+    },
+    {
+      "degrees": 202.5,
+      "rowIndex": 10,
+      "columnIndex": 1
+    },
+    {
+      "degrees": 225,
+      "rowIndex": 10,
+      "columnIndex": 2
+    },
+    {
+      "degrees": 247.5,
+      "rowIndex": 10,
+      "columnIndex": 3
+    },
+    {
+      "degrees": 270,
+      "rowIndex": 10,
+      "columnIndex": 4
+    },
+    {
+      "degrees": 292.5,
+      "rowIndex": 10,
+      "columnIndex": 5
+    },
+    {
+      "degrees": 315,
+      "rowIndex": 10,
+      "columnIndex": 6
+    },
+    {
+      "degrees": 337.5,
+      "rowIndex": 10,
+      "columnIndex": 7
+    }
+  ]
+}

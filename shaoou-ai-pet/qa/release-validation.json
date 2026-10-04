@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "releaseVersion": "1.0.0",
+  "aiGenerated": true,
+  "unofficialFanWork": true,
+  "checksummedFiles": 30,
+  "atlas": {
+    "path": "assets/spritesheet-extended.png",
+    "size": [
+      1536,
+      2288
+    ],
+    "mode": "RGBA",
+    "usedCells": 73,
+    "unusedTransparentCells": 15,
+    "animationFrames": 57,
+    "lookDirections": 16,
+    "transparentRgbResiduePixels": 0,
+    "saturatedGreenEdgePixels": 0,
+    "pngWebpPixelsIdentical": true
+  },
+  "stateGifFramesChecked": 57,
+  "privacyPatternMatches": [],
+  "scope": "Offline file/layout/timing checks and heuristic privacy/chroma scans; not third-party authorization or an artistic review.",
+  "errors": []
+}

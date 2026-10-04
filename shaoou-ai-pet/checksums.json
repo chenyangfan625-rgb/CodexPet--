@@ -1,0 +1,129 @@
+{
+  "algorithm": "sha256",
+  "excludes": [
+    "checksums.json",
+    "qa/release-validation.json"
+  ],
+  "files": {
+    ".gitattributes": {
+      "bytes": 136,
+      "sha256": "aa286e5b281c667d436fd5324b67039573836d1b451fa8a25bd07acc4b072f20"
+    },
+    ".gitignore": {
+      "bytes": 235,
+      "sha256": "9d4114968b92dfcca01ab54cb855e6cd629b4c785bb8b30fdeba6767ca2e8beb"
+    },
+    "CHANGELOG.md": {
+      "bytes": 659,
+      "sha256": "48062f3ae2af1bfcf80dcdc1513a753fc81b0e382a42372483ed83d1a672c65d"
+    },
+    "LICENSE": {
+      "bytes": 1280,
+      "sha256": "f61c45ce558bcc3434803861b11ec32f87c6c5347e3b0e255106266590e4cdf0"
+    },
+    "NOTICE.md": {
+      "bytes": 2227,
+      "sha256": "7984534bdc56ade09002d5836df11d7b68c8672adb655cef2a54c44bcd38ae75"
+    },
+    "README.md": {
+      "bytes": 4273,
+      "sha256": "ab91aace9478ddcfaf9e60ec3b0e1dc3f6bdb3a979f80b23c44e6dbb2ba491cd"
+    },
+    "assets/spritesheet-extended.png": {
+      "bytes": 3626802,
+      "sha256": "135ed6fbdeb67201d52124ab84a5014ac65c71d6b140a0638681ebe4526ab1cb"
+    },
+    "assets/spritesheet-extended.webp": {
+      "bytes": 2806068,
+      "sha256": "3992cada9c8bac701a702d1ce20d56c5bef0ae500ca309162ddc4be3208d3af5"
+    },
+    "docs/FORMAT.md": {
+      "bytes": 2176,
+      "sha256": "bd2dfd056ca20eb31986c2ea5791b6a57f7d9f44cad73834d885811d8487d2a7"
+    },
+    "docs/GENERATION.md": {
+      "bytes": 1930,
+      "sha256": "9925aaae2b0d1782512e9223a17750011aad8a3e7d39884c02058aff041f7949"
+    },
+    "docs/PUBLISH.md": {
+      "bytes": 1782,
+      "sha256": "2234ceac043c9352d803b9389942cabce043059712824facb68f5b189f555c8d"
+    },
+    "manifest.json": {
+      "bytes": 4296,
+      "sha256": "c089e0aeb5c14fa66235e316544f5b01592611181e7cff0047d1c56ecf02d436"
+    },
+    "previews/all-states.gif": {
+      "bytes": 811536,
+      "sha256": "92ec3b7facb384e86688de4c203558d3c3058e4c6864deaaf6da61afe3890d07"
+    },
+    "previews/all-states.mp4": {
+      "bytes": 231066,
+      "sha256": "afab45b1a7a255b094e13c8ca85815d4701b173ef3eba845e1aea036ed6332eb"
+    },
+    "previews/contact-sheet.png": {
+      "bytes": 2975232,
+      "sha256": "e02f008612dea78559a77cc1f458f3ffc7271b79c2464896e53a0956151348f1"
+    },
+    "previews/failed.gif": {
+      "bytes": 104120,
+      "sha256": "382421f3645a428b1181da117b9b2502cb69ef087819bf54ec3b036f0c5fb5eb"
+    },
+    "previews/idle.gif": {
+      "bytes": 91982,
+      "sha256": "7451f9d5f9891b3ca48218063c44bb12ecc1df23eb35209c91e1999021421505"
+    },
+    "previews/jumping.gif": {
+      "bytes": 74705,
+      "sha256": "cc9e3c55b260a76f15f93fe070d2cf547367cb5114484c916b35bc8b2ebf1fc6"
+    },
+    "previews/look-directions.png": {
+      "bytes": 955065,
+      "sha256": "19d24576f64f3aba9f1c4e00fb6e7d4429cd0754e3f3f437234ace26ece38ea2"
+    },
+    "previews/look-loop.gif": {
+      "bytes": 221168,
+      "sha256": "b88777fa7993719995a4f34080cb7978952623da6fc4f7fd8718fd597750555d"
+    },
+    "previews/motion-stills.png": {
+      "bytes": 207048,
+      "sha256": "a89799c161461795d7699968b4d7fd784822a41adabd18851d080ef13f9a855d"
+    },
+    "previews/review.gif": {
+      "bytes": 88435,
+      "sha256": "eb3d4a0e9bca5632b668cc04de79a536e138213171515c836fc1c0141d2bfe5b"
+    },
+    "previews/right-story-stills.png": {
+      "bytes": 223758,
+      "sha256": "1af452152ec4bb9f499b678111fac2b568a3c83f7a9083ff9f0aaf19963126b3"
+    },
+    "previews/running-left.gif": {
+      "bytes": 122454,
+      "sha256": "93a6c5bf3510c9873a24944d50ebc1b18224654fe2a45e1340b0b7c0eda375a7"
+    },
+    "previews/running-right.gif": {
+      "bytes": 137796,
+      "sha256": "53c3e85d076434b6e78f5ee025377c445cd389920eb01ae098276fad23303708"
+    },
+    "previews/running.gif": {
+      "bytes": 83142,
+      "sha256": "3c841c4eb21519ab17c20f05c5db8c223e1ad8fb6d9fa3a564fcb35f26fb5761"
+    },
+    "previews/waiting.gif": {
+      "bytes": 89437,
+      "sha256": "edeac1f0704bb5b8c696262b10f7d01ef49325fc8518a1472880ab8774c3d6d2"
+    },
+    "previews/waving.gif": {
+      "bytes": 60012,
+      "sha256": "3beb69309d7843e5341f1d38bb1c9f8969d770673cb69d4b0b8a61f06880afb4"
+    },
+    "requirements.txt": {
+      "bytes": 17,
+      "sha256": "a6aa4945334d7e5c05151676e8dfca726780a9e4d154310a34df06f4137f1c92"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 9055,
+      "sha256": "85848b84becb084d6f884aa4c9c021a1dd2b8c05c6ebe9956ef7bc24a4c06c37"
+    }
+  }
+}
